@@ -9,7 +9,7 @@ https://builtwith.angularjs.org/
 
 ### Video Aulas
 
-**Rodrigo Branas PT-BR** : https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb
+**Rodrigo Branas PT-BR** : https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb </br>
 **Angular for Begginers EN** : https://www.youtube.com/watch?v=RBhqLRoRDgo&list=PLBTXLYhPD8MHGMW-ZEvdAtkxyAz-N8Toj
 
 ### Artigos
@@ -23,5 +23,5 @@ https://builtwith.angularjs.org/
 ### Biblia do Angular
 Existem alguns padrões e conceitos sobre o Angular, o cara que com maior maestria "domou" essas coisas e montou um GuideLine completo foi o grande **John Papa**
 
-**EN** : https://github.com/johnpapa/angular-styleguide
+**EN** : https://github.com/johnpapa/angular-styleguide </br>
 **PT-BR** : https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md

@@ -9,19 +9,19 @@ https://builtwith.angularjs.org/
 
 ### Video Aulas
 
-** Rodrigo Branas PT-BR** : https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb
-** Angular for Begginers EN** : https://www.youtube.com/watch?v=RBhqLRoRDgo&list=PLBTXLYhPD8MHGMW-ZEvdAtkxyAz-N8Toj
+**Rodrigo Branas PT-BR** : https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb
+**Angular for Begginers EN** : https://www.youtube.com/watch?v=RBhqLRoRDgo&list=PLBTXLYhPD8MHGMW-ZEvdAtkxyAz-N8Toj
 
 ### Artigos
-** BASICO **
+**BASICO**
  - http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/
  - http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/
 
-** INTERMEDIARIO **
+**INTERMEDIARIO**
  - http://onehungrymind.com/winning-http-interceptors-angularjs/
 
 ### Biblia do Angular
 Existem alguns padrões e conceitos sobre o Angular, o cara que com maior maestria "domou" essas coisas e montou um GuideLine completo foi o grande **John Papa**
 
-** EN ** : https://github.com/johnpapa/angular-styleguide
-** PT-BR ** : https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md
+**EN** : https://github.com/johnpapa/angular-styleguide
+**PT-BR** : https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md

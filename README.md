@@ -10,6 +10,7 @@ https://builtwith.angularjs.org/
 ### Video Aulas
 
 **Rodrigo Branas PT-BR** : https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb </br>
+**AngularJs para zumbis PT-BR** :https://www.youtube.com/watch?v=iiMM6q1JZ50&list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM&index=1&spfreload=10 </br>
 **Angular for Begginers EN** : https://www.youtube.com/watch?v=RBhqLRoRDgo&list=PLBTXLYhPD8MHGMW-ZEvdAtkxyAz-N8Toj
 
 ### Artigos

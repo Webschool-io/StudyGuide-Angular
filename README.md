@@ -5,7 +5,7 @@ Roteiro de como um programador iniciante pode virar um programador foda.
 O Angular é um MVW (Model View Whatever) mantido pela Google, a framework que se autointitula "Super heróica" tem como premissa trazer uma melhor padrão para aplicações REST facilitando a criação de Controllers e Interações dos mesmos com a views. Um dos diferenciais do Angular são as Diretivas e como o Angular trabalha com o **.html**.
 
 ### Quem usa Angular?
-https://builtwith.angularjs.org/
+https://www.madewithangular.com/
 
 ### Video Aulas
 
